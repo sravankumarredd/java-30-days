@@ -1,4 +1,5 @@
-File 1 : bank.java
-    Represents a bank for managing customers and thier bank accounts
- 
+File 1 : ShoppingCartTest
+    Represents ShoppingCartTest for managing ShoppingCart and Item
+    
+   
  
